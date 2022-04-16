@@ -1,7 +1,7 @@
 # taller_OpenCV
 Taller de introducción a OpenCV para la clase de Data Science de The Bridge | Digital Talent Accelerator.
 
-En este taller veremos algunas de las principales utilidades de la librería OpenCV.
+En este taller introductorio veremos algunas de las principales utilidades de la librería OpenCV.
 
 Para ello, tendremos que instalar la librería haciendo:
 
