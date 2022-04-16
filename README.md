@@ -8,5 +8,7 @@ Para ello, tendremos que instalar la librería haciendo ### pip install opencv-p
 Fuentes:
 
 https://github.com/opencv
+
 https://docs.opencv.org/4.x/
+
 https://www.youtube.com/watch?v=oXlwWbU8l2o
