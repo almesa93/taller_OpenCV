@@ -3,7 +3,9 @@ Taller de introducción a OpenCV para la clase de Data Science de The Bridge | D
 
 En este taller veremos algunas de las principales utilidades de la librería OpenCV.
 
-Para ello, tendremos que instalar la librería haciendo ### pip install opencv-python
+Para ello, tendremos que instalar la librería haciendo:
+
+# pip install opencv-python
 
 Fuentes:
 
