@@ -1,6 +1,6 @@
 import cv2 as cv
 
-haar_cascade = cv.CascadeClassifier('./Section #3 - Faces/haar_face.xml')
+haar_cascade = cv.CascadeClassifier('../Section #3 - Faces/haar_face.xml')
 # capture = cv.VideoCapture('./Resources/Videos/alex_2.mp4')
 capture = cv.VideoCapture(0)
 
